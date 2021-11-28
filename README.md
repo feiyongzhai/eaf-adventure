@@ -4,6 +4,6 @@ This repository provides the EAF Demo application for the [Emacs Application Fra
 ### Load application
 
 ```Elisp
-(add-to-list 'load-path "~/.emacs.d/site-lisp/eaf-demo/")
-(require 'eaf-demo)
+(add-to-list 'load-path "~/.emacs.d/site-lisp/eaf-adventure/")
+(require 'eaf-fei)
 ```
